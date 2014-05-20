@@ -13,6 +13,8 @@ http://tdbeta.digitalfirstmedia.com/cirva/
 
 The resulting story ran here, with our interactive chart: http://www.sltrib.com/sltrib/news/56473395-78/claims-veterans-lake-salt.html.csp?page=1
 
+![the chart](screenshots/cirva.png)
+
 Credits
 ---------
 
